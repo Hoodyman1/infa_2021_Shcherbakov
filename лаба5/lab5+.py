@@ -1,6 +1,8 @@
 import pygame
 import pygame.draw as dr
 from random import randint
+
+
 pygame.init()
 pygame.font.init()
 
